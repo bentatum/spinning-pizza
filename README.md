@@ -28,11 +28,13 @@ import { SpinningPizza } from 'spinning-pizza'
 | :----------- | :----- |
 | size         | number |
 | speed        | number |
+
 ### `<BeatingHeart/>`
 | Prop         | Type   | Description |
 | :----------- | :----- | :---------- |
 | size         | number |             |
 | speed        | number |             |
+
 ### `<ThreeOldGuys/>`
 | Prop         | Type   | Description                                              |
 | :----------- | :----- | :------------------------------------------------------- |
