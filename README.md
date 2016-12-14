@@ -24,9 +24,22 @@ import { SpinningPizza } from 'spinning-pizza'
 ```
 
 ### Loaders
-#### SpinningPizza
-#### BeatingHeart
-#### ThreeOldGuys
+#### <SpinningPizza/>
+| Prop         | Type   |
+| :----------- | :----- |
+| size         | number |
+| speed        | number |
+#### <BeatingHeart/>
+| Prop         | Type   | Description |
+| :----------- | :----- | :---------- |
+| size         | number |             |
+| speed        | number |             |
+#### <ThreeOldGuys/>
+| Prop         | Type   | Description                                              |
+| :----------- | :----- | :------------------------------------------------------- |
+| size         | number |             |
+| character    | string | Pass any emoji here! 💃💃💃 |
+| shade        | number | 0-4 will give you various skin tones of the character, if it's available. |
 
 ## Contributing
 

@@ -1,5 +1,6 @@
 {
   "name": "spinning-pizza",
+  "description": "♻️ 🍕 A loading indicator set using animated emojis 👴 ❤️",
   "version": "0.0.1",
   "author": "bentatum <bentatum@me.com>",
   "bugs": {
