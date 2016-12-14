@@ -1,7 +1,7 @@
 {
   "name": "spinning-pizza",
-  "description": "♻️ 🍕 A loading indicator set using animated emojis 👴 ❤️",
-  "version": "0.0.1",
+  "description": "♻️ 🍕 A loading indicator set using animated emojis",
+  "version": "0.0.2",
   "author": "bentatum <bentatum@me.com>",
   "bugs": {
     "url": "https://github.com/bentatum/spinning-pizza/issues"
