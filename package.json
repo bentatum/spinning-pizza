@@ -1,0 +1,58 @@
+{
+  "name": "spinning-pizza",
+  "version": "0.0.1",
+  "author": "bentatum <bentatum@me.com>",
+  "bugs": {
+    "url": "https://github.com/bentatum/spinning-pizza/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-eslint": "^7.1.1",
+    "babel-plugin-transform-class-properties": "^6.19.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "standard": "*",
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/bentatum/spinning-pizza",
+  "keywords": [
+    "busy",
+    "emoji",
+    "indicator",
+    "loader",
+    "loading",
+    "react",
+    "status"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bentatum/spinning-pizza.git"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js | tap-spec",
+    "build": "babel -d dist/ lib/"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "babel": {
+    "presets": [
+      "react",
+      "stage-0",
+      "es2015"
+    ],
+    "plugins": [
+      "transform-decorators-legacy",
+      "transform-class-properties"
+    ]
+  },
+  "dependencies": {
+    "lodash.range": "^3.2.0",
+    "recompose": "^0.21.0"
+  }
+}
