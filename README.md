@@ -24,17 +24,17 @@ import { SpinningPizza } from 'spinning-pizza'
 ```
 
 ### Loaders
-#### <SpinningPizza/>
+#### `<SpinningPizza/>`
 | Prop         | Type   |
 | :----------- | :----- |
 | size         | number |
 | speed        | number |
-#### <BeatingHeart/>
+#### `<BeatingHeart/>`
 | Prop         | Type   | Description |
 | :----------- | :----- | :---------- |
 | size         | number |             |
 | speed        | number |             |
-#### <ThreeOldGuys/>
+#### `<ThreeOldGuys/>`
 | Prop         | Type   | Description                                              |
 | :----------- | :----- | :------------------------------------------------------- |
 | size         | number |             |
