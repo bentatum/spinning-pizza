@@ -53,7 +53,11 @@
     ]
   },
   "dependencies": {
-    "lodash.range": "^3.2.0",
+    "lodash.range": "^3.2.0"
+  },
+  "peerDependencies": {
+    "gsap": "^1.19.0",
+    "react-easy-emoji": "^1.0.4",
     "recompose": "^0.21.0"
   }
 }

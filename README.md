@@ -14,7 +14,7 @@
 ## Install
 
 ```
-npm i spinning-pizza react-easy-emoji gsap
+npm i spinning-pizza react-easy-emoji gsap recompose
 ```
 
 ## Usage
