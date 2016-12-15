@@ -1,4 +1,4 @@
-# spinning-pizza
+# spinning-pizza ![](http://media.benjamintatum.com/spinning-pizza.gif)
 
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
