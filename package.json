@@ -1,7 +1,7 @@
 {
   "name": "spinning-pizza",
   "description": "♻️ 🍕 A loading indicator set using animated emojis",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "bentatum <bentatum@me.com>",
   "bugs": {
     "url": "https://github.com/bentatum/spinning-pizza/issues"
@@ -52,12 +52,8 @@
       "transform-class-properties"
     ]
   },
-  "dependencies": {
-    "lodash.range": "^3.2.0"
-  },
   "peerDependencies": {
     "gsap": "^1.19.0",
-    "react-easy-emoji": "^1.0.4",
-    "recompose": "^0.21.0"
+    "react-easy-emoji": "^1.0.4"
   }
 }
